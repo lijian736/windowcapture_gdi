@@ -12,3 +12,7 @@ Windows屏幕共享程序，可以截取Windows桌面和应用程序窗口。使
 下载代码，使用Visual Studio 2015 Community直接打开工程文件，编译执行即可。
 
 #### 使用说明
+![屏幕截取](https://gitee.com/videoaudioer/windowcapture_gdi/raw/master/screenshot/fullscreen.png "屏幕截取")  
+  
+  
+![窗口截取](https://gitee.com/videoaudioer/windowcapture_gdi/raw/master/screenshot/window.png "窗口截取")
